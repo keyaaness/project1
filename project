@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <center> 
+        <h1> IIT Kharagpur </h1>
+        <h2> A Journey and an Emotion! </h2>
+       <h4> Let me take you on a short tour to three of my favourite places in the campus... </h4>
+    </center>
+        <title> Keya's Webpage </title>
+        <meta name="viewport" content=
+        "width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  
+    <style>
+        .fa:hover {
+            opacity: 0.9;
+        }
+  
+        .fa-linkedin {
+            background: #007bb5;
+            color: white;
+        }
+  
+        .fa-pinterest {
+            background: #cb2027;
+            color: white;
+        }
+  
+        
+  
+        .fa {
+            padding: 20px;
+            font-size: 40px;
+            width: 60px;
+            text-decoration: none;
+            margin: 5px 80px;
+        }
+  
+        h1 {
+            color:turquoise ;
+        }
+        h2 {color: grey;}
+    
+        img { width: 300px;
+            border-radius: 5px;
+            margin-right: 10px;}  
+      </style>
+    </head>
+    <body>
+        <center>
+     <img src="images/hall.jpg" alt="oops! that was an error">  
+     <p> <h2> SNVH IGH Hall</h2></p>
+     <p align="center"> IGH (International Guest house) which is a part of SNVH (Sister Nivedita Hall) is hands down the best hall in IIT Kharagpur. Except a few flip sides of living in a guest house instead of a hall, our hall is just perfect! Great looks combined with the best facilities is how I would like to describe SNVH IGH :)</p> 
+    <img src="images/main buliding.jpg" alt="oops! that was an error">
+        <p> <h2> Main Academic Building</h2></p> 
+        <p align="center"> The Main Academic Builing is the most significant strcuture in the entire campus! It hosts the Central Library, numerous auditoriums, offices, and also connects the department buildings. This building is our pride! </p>
+     <img src="images/pfc.jpg" alt="oops! that was an error">
+      <p><h2>PFC</h2></p>
+      <p align="center"> It is undoubtedly one of the best eateries in the campus. I personally love the food here. Not only does it have a wide variety of food items but also the food at PFC is priced decently. It is always fun to spend time here with friends! </p>
+    </center>
+    </body>
+    <center> 
+    <footer> <img src="images/cq.jpg" alt="error">
+        <p>
+    <a href="http://cqiitkgp.com/"> Official Website </a>
+        <h1>Communiqué</h1>
+        <h3>Social Media Links</h3>
+  
+        <!-- Add font awesome icons -->
+        <a href="https://www.linkedin.com/in/keya-battu-a8393a259/" class="fa fa-linkedin"></a>
+        <a href="https://in.pinterest.com/keyaaness/_saved/" class="fa fa-pinterest"></a>
+    </p>
+    </center>
+</footer>
+</html>
